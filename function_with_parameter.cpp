@@ -17,3 +17,6 @@ int kelilingpersegi(int a, int b){
     return 2*(a+b);
 
 }
+void output(){
+    cout<<"luasnya: "<<luaspersegi(panjang,lebar)<<endl;
+}
